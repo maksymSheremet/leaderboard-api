@@ -163,7 +163,3 @@ mvn test
 🔗 [github.com/maksymSheremet](https://github.com/maksymSheremet)
 
 ---
-
-## 📜 Ліцензія
-
-MIT License
