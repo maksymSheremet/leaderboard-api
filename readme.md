@@ -150,7 +150,7 @@ mvn test
 
 - [x] Підключити `@ControllerAdvice` для глобальної обробки помилок.
 - [x] REST DTO-валидація через `@Valid`.
-- [ ] Додати тести для `InMemoryGameResultRepository` і `GameResultComparators`.
+- [x] Додати тести для `InMemoryGameResultRepository` і `GameResultComparators`.
 - [ ] Оптимізувати потокобезпеку з гранульованими замками.
 - [ ] Додати Swagger / OpenAPI для документації API.
 - [ ] Створити Docker-файл для контейнеризації.
