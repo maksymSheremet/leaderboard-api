@@ -114,7 +114,6 @@ curl http://localhost:8080/api/levelinfo/3
 - `LeaderboardController.java` — REST-контролер для обробки HTTP-запитів.
 - `GameResultsService.java` — бізнес-логіка для роботи з результатами.
 - `InMemoryGameResultRepository.java` — зберігання результатів у пам’яті з потокобезпекою.
-- `GameResultComparators.java` — компаратори для сортування результатів за користувачами та рівнями.
 - `GameResult.java` — модель результату гри.
 - `SetInfoRequest.java` — DTO для валідації вхідних даних PUT-запиту.
 - `GlobalExceptionHandler.java` — глобальна обробка помилок через `@ControllerAdvice`.
@@ -122,7 +121,6 @@ curl http://localhost:8080/api/levelinfo/3
 - `LeaderboardControllerTest.java` — інтеграційні тести для контролера.
 - `application.properties` — конфігурація Spring.
 - `logback-spring.xml` — конфігурація логування.
-- `run.sh` — скрипт для запуску.
 
 ---
 
